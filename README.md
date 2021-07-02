@@ -1,2 +1,2 @@
-# C-2plus
-C++
+# C++
+Programando em C++
